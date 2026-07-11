@@ -24,7 +24,7 @@ $ whoami --studio
 
 <br>
 
-## `▚` Practice
+<img src="./h_practice.svg" alt="Practice" height="40">
 
 | | Domain | In production |
 |:--|:--|:--|
@@ -36,7 +36,7 @@ $ whoami --studio
 
 <br>
 
-## `▚` Method
+<img src="./h_method.svg" alt="Method" height="40">
 
 ```text
   01  SCOPE      →  Understand the system before touching it.
@@ -48,7 +48,7 @@ $ whoami --studio
 
 <br>
 
-## `▚` Principles
+<img src="./h_principles.svg" alt="Principles" height="40">
 
 > **Automate the manual.** If a person repeats it, a system should do it.
 >
@@ -60,25 +60,32 @@ $ whoami --studio
 
 <br>
 
-## `▚` Stack
+<img src="./h_stack.svg" alt="Stack" height="40">
+
+```console
+$ aethryonexis --stack
+
+  SYSTEMS       C · C++ · Rust · CUDA · multithreading · performance engineering
+  LANGUAGES     Python · TypeScript · JavaScript · Java · Go · Bash · SQL
+  BACKEND       Node.js · Express · FastAPI · Flask · REST · WebSockets · Socket.IO
+  FRONTEND      React · Flutter · HTML/CSS
+  DATA          MongoDB · PostgreSQL · SQL · RocksDB · schema design · indexing
+  ML            scikit-learn · model serving · inference pipelines
+  CLOUD         AWS · Azure · Docker · CI/CD · GitHub Actions · Linux
+  SECURITY      Applied cryptography · penetration testing · network security
+                Nmap · Metasploit · Burp Suite · threat modelling
+```
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0B0B0D?style=for-the-badge&logo=python&logoColor=D4AF37)
-![C++](https://img.shields.io/badge/C++-0B0B0D?style=for-the-badge&logo=cplusplus&logoColor=D4AF37)
-![TypeScript](https://img.shields.io/badge/TypeScript-0B0B0D?style=for-the-badge&logo=typescript&logoColor=D4AF37)
-![Node.js](https://img.shields.io/badge/Node.js-0B0B0D?style=for-the-badge&logo=nodedotjs&logoColor=D4AF37)
-
-![Docker](https://img.shields.io/badge/Docker-0B0B0D?style=for-the-badge&logo=docker&logoColor=D4AF37)
-![Linux](https://img.shields.io/badge/Linux-0B0B0D?style=for-the-badge&logo=linux&logoColor=D4AF37)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B0B0D?style=for-the-badge&logo=postgresql&logoColor=D4AF37)
-![Redis](https://img.shields.io/badge/Redis-0B0B0D?style=for-the-badge&logo=redis&logoColor=D4AF37)
+<sub>Depth in **distributed systems**, **applied cryptography**, and **performance engineering**.<br>
+Breadth everywhere else — enough to build the whole system, not just a slice of it.</sub>
 
 </div>
 
 <br>
 
-## `▚` Engagements
+<img src="./h_engagements.svg" alt="Engagements" height="40">
 
 ```console
 $ aethryonexis --services
@@ -93,7 +100,7 @@ $ aethryonexis --services
 
 <div align="center">
 
-## `▚` Contact
+<img src="./h_contact.svg" alt="Contact" height="40">
 
 **A system that needs building — or a manual process that shouldn't be manual?**
 

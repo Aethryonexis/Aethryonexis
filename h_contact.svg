@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="174" height="46" viewBox="0 0 174 46" fill="none">
+  <defs>
+    <linearGradient id="g_contact" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F5D98B"/><stop offset="55%" stop-color="#D4AF37"/><stop offset="100%" stop-color="#9C7A1E"/>
+    </linearGradient>
+    <clipPath id="clip_contact"><rect x="52" y="0" height="46" width="0">
+      <animate attributeName="width" begin="0.2s" dur="0.63s" fill="freeze" calcMode="discrete" values="0.0;13.1;26.3;39.4;52.6;65.7;78.9;92.0" keyTimes="0.0000;0.1429;0.2857;0.4286;0.5714;0.7143;0.8571;1.0000"/>
+    </rect></clipPath>
+  </defs>
+  <text x="26" y="33" font-family="'JetBrains Mono','Fira Code',monospace" font-size="22" font-weight="700" fill="#4F5560">&#9642;</text>
+  <text x="52" y="33" font-family="'JetBrains Mono','Fira Code',monospace" font-size="22" font-weight="700" letter-spacing="0" fill="url(#g_contact)" clip-path="url(#clip_contact)">CONTACT</text>
+  <rect y="14" width="2.6" height="24" fill="#D4AF37">
+    <animate attributeName="x" begin="0.2s" dur="0.63s" fill="freeze" calcMode="discrete" values="52.0;65.1;78.3;91.4;104.6;117.7;130.9;144.0" keyTimes="0.0000;0.1429;0.2857;0.4286;0.5714;0.7143;0.8571;1.0000"/>
+    <animate attributeName="opacity" values="1;1;0;1;0;1" dur="2.23s" begin="0.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
